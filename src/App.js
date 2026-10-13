@@ -53,7 +53,7 @@ boxSizing: 'border-box'
   />
 
   <h3>Characters: {text.length}</h3>
-
+{/*command line*/}
 </div>
 
 );
